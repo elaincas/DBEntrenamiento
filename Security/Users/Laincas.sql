@@ -1,0 +1,3 @@
+﻿CREATE USER [Laincas]
+  WITHOUT LOGIN
+GO
