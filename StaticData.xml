@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<StaticDataList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>2</Version>
+  <StaticDataLinks>
+    <StaticDataLink>dbo.ColaboradorVHUR</StaticDataLink>
+    <StaticDataLink>dbo.EstadosProductos</StaticDataLink>
+    <StaticDataLink>dbo.LogEventos</StaticDataLink>
+    <StaticDataLink>dbo.Productos</StaticDataLink>
+    <StaticDataLink>dbo.ProductosDetalles</StaticDataLink>
+    <StaticDataLink>dbo.ProductosPrestamos</StaticDataLink>
+    <StaticDataLink>dbo.Sucursales</StaticDataLink>
+    <StaticDataLink>dbo.sysdiagrams</StaticDataLink>
+    <StaticDataLink>dbo.TransaccionesProductos</StaticDataLink>
+    <StaticDataLink>dbo.Traslados</StaticDataLink>
+    <StaticDataLink>dbo.TrasladosDetalles</StaticDataLink>
+    <StaticDataLink>dbo.UsuarioInformacionGeneral</StaticDataLink>
+    <StaticDataLink>dbo.Zonas</StaticDataLink>
+    <StaticDataLink>dbo.ZonasEncargados</StaticDataLink>
+  </StaticDataLinks>
+</StaticDataList>
